@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T00:21:39.190Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4892.0 Safari/537.36" etag="KHdaEM4K4Ru2b5j20_Dh" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T00:28:41.258Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4892.0 Safari/537.36" etag="piwaZ2gQ09h85C3Mti_o" version="17.1.2" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="718" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xtlAXO4NCWMs_CtpXF3u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xtlAXO4NCWMs_CtpXF3u-4" target="xtlAXO4NCWMs_CtpXF3u-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xtlAXO4NCWMs_CtpXF3u-4" value="«Component»&lt;br&gt;&lt;b&gt;THING&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="xtlAXO4NCWMs_CtpXF3u-4" value="«Component»&lt;br&gt;&lt;b&gt;ITEM&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xtlAXO4NCWMs_CtpXF3u-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="xtlAXO4NCWMs_CtpXF3u-4">
@@ -95,7 +95,7 @@
         <mxCell id="xtlAXO4NCWMs_CtpXF3u-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xtlAXO4NCWMs_CtpXF3u-65" target="xtlAXO4NCWMs_CtpXF3u-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xtlAXO4NCWMs_CtpXF3u-65" value="ThingClass" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="xtlAXO4NCWMs_CtpXF3u-65" value="ItemClass" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="-160" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xtlAXO4NCWMs_CtpXF3u-66" value="title : String&#xa;maker : String&#xa;description : Long String&#xa;dimensions : List &lt;Int&gt;&#xa;bid : Int&#xa;status : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xtlAXO4NCWMs_CtpXF3u-65">
